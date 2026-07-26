@@ -7,6 +7,7 @@ An interactive Excel dashboard built to analyze E-Commerce sales performance usi
 ![Dashboard](Dashboard.png)
 
 ✨ Features
+
 📊 Interactive Dashboard
 📈 Monthly Sales Trend Analysis
 💰 Total Sales KPI
@@ -18,6 +19,7 @@ An interactive Excel dashboard built to analyze E-Commerce sales performance usi
 📊 Profit by Category
 
 🛠️ Tools Used
+
 Microsoft Excel
 Pivot Tables
 Pivot Charts
@@ -26,6 +28,8 @@ Excel Formulas
 Conditional Formatting
 
 📊 Key Insights
+
+
 📈 Electronics generated the highest sales.
 🌍 North region recorded the highest revenue.
 🚚 Standard Shipping was the most preferred shipping mode.
